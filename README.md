@@ -1,0 +1,1 @@
+# rnd-go-mod-folders
